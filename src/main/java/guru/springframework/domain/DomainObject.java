@@ -1,5 +1,8 @@
 package guru.springframework.domain;
 
+import javax.persistence.Id;
+import javax.persistence.SequenceGenerator;
+
 /**
  * Created by jt on 11/14/15.
  */
